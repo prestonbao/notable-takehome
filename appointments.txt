@@ -1,0 +1,92 @@
+[
+  {
+    "date": "2021-05-09",
+    "doctor_id": 2,
+    "first_name": "Cyril",
+    "id": 2,
+    "last_name": "Figis",
+    "new_patient": false,
+    "time": "8:30"
+  },
+  {
+    "date": "2021-05-09",
+    "doctor_id": 3,
+    "first_name": "Ray",
+    "id": 3,
+    "last_name": "Gilette",
+    "new_patient": false,
+    "time": "9:00"
+  },
+  {
+    "date": "2021-05-09",
+    "doctor_id": 2,
+    "first_name": "Lana",
+    "id": 4,
+    "last_name": "Kane",
+    "new_patient": false,
+    "time": "9:30"
+  },
+  {
+    "date": "2021-05-09",
+    "doctor_id": 3,
+    "first_name": "A",
+    "id": 6,
+    "last_name": "BBB",
+    "new_patient": false,
+    "time": "9:30"
+  },
+  {
+    "date": "2021-05-09",
+    "doctor_id": 2,
+    "first_name": "Test",
+    "id": 5,
+    "last_name": "Patient",
+    "new_patient": false,
+    "time": "9:30"
+  },
+  {
+    "date": "2021-05-09",
+    "doctor_id": 2,
+    "first_name": "RT",
+    "id": 10,
+    "last_name": "Patient",
+    "new_patient": true,
+    "time": "9:30"
+  },
+  {
+    "date": "2021-05-09",
+    "doctor_id": 2,
+    "first_name": "RT",
+    "id": 10,
+    "last_name": "Patient",
+    "new_patient": true,
+    "time": "08:15"
+  },
+  {
+    "date": "2021-05-09",
+    "doctor_id": 2,
+    "first_name": "RTA",
+    "id": 14,
+    "last_name": "Patient",
+    "new_patient": true,
+    "time": "08:15"
+  },
+  {
+    "date": "2021-05-09",
+    "doctor_id": 2,
+    "first_name": "RTB",
+    "id": 11,
+    "last_name": "Patient",
+    "new_patient": true,
+    "time": "08:15"
+  },
+  {
+    "date": "2021-05-09",
+    "doctor_id": 1,
+    "first_name": "RB",
+    "id": 11,
+    "last_name": "Patient",
+    "new_patient": true,
+    "time": "08:15"
+  }
+]

@@ -1,0 +1,6 @@
+To run app:
+1. activate virtualenv 
+2. run `pip3 install -r requirements.txt`
+3. to run server itself execute `python app.py`
+4. the server will be running on localhost:105
+5. to stop server, press CTRL-C
